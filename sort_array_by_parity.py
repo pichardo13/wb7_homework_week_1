@@ -11,5 +11,3 @@ def sortArrayByParity(self, A):
             else:
                 odd.append(num)
         return even + odd
-
-        
