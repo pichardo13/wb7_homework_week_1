@@ -15,6 +15,6 @@ def transpose(A):
     """
     return [[j[i] for j in A] for i in range(len(A[0]))]
 A = [[1,2,3],[4,5,6]]
-print(transpose(self, A))
+print(transpose(A))
 
 
